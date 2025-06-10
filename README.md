@@ -1,5 +1,4 @@
 # Gas-Leakage-Detector-Using-Arduino
-# LPG Gas Leakage Detection System using Arduino UNO
 
 ![Project Image](/TitleImage.png)
 
@@ -33,4 +32,3 @@ The MQ-5 sensor continuously monitors air quality for LPG gas. When gas concentr
 
 ## Developer
 - **Developed by:** CircuitDigest/me_RK
-- **Date:** 05-06-2025
